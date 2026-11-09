@@ -11,4 +11,5 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [Galaksi](ebook/Galaksi.pdf) – Poppi Pertiwi(2017)
 8. [Hujan](ebook/Hujan.pdf) – Tere Liye(2022)
 9. [Laskar Pelangi](ebook/Laskar Pelangi.pdf) – Andrea Hirata(2018)
-10. [Laut Bercerita](ebook/Laut Bercerita.pdf) – Luluk HF(2018)
+10. [Laut Bercerita](ebook/Laut Bercerita.pdf) – Leila S. Chudori(2017)
+11. [Ronggeng Dukuh Paruk](ebook/Ronggeng Dukuh Paruk.pdf) – Ahmad Tohari(2025)
