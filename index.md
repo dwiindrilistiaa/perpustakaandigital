@@ -1,9 +1,9 @@
 # Digital Library
-Selamat Datang di Perpustakaan Digital
-Nama  : Dwi Indri Listia Sari
-Kelas : A
-NIM   : 13040124120008
-Berikut ini adalah Koleksi yang dimiliki: 
+[Selamat Datang di Perpustakaan Digital]
+[Nama  : Dwi Indri Listia Sari]
+[Kelas : A]
+[NIM   : 13040124120008]
+[Berikut ini adalah Koleksi yang dimiliki:]
 ## Koleksi 
 1. [Artikel Pengembangan](ebook/Artikel Pengembangan.pdf) – Iwin Ardyawin(2018)
 2. [Teka-Teki Gambar Aneh](ebook/Teka-Teki Gambar Aneh.pdf) – Uketsu(2022)
