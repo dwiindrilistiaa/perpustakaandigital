@@ -3,7 +3,6 @@ Selamat Datang di Perpustakaan Digital
 Nama  : Dwi Indri Listia Sari
 Kelas : A
 NIM   : 13040124120008
-## Koleksi
 Berikut ini adalah Koleksi yang dimiliki: 
 ## Koleksi 
 1. [Artikel Pengembangan](ebook/Artikel Pengembangan.pdf) – Iwin Ardyawin(2018)
